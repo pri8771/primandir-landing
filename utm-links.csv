@@ -1,0 +1,12 @@
+channel,utm_source,utm_medium,utm_campaign,utm_content,destination,full_url
+website,website,direct,beta_waitlist_v1,hero_cta,home,https://primandir.com/?utm_source=website&utm_medium=direct&utm_campaign=beta_waitlist_v1&utm_content=hero_cta
+instagram_bio,instagram,organic_social,beta_waitlist_v1,bio_link,home,https://primandir.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=beta_waitlist_v1&utm_content=bio_link
+instagram_story,instagram,organic_social,beta_waitlist_v1,story_link,home,https://primandir.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=beta_waitlist_v1&utm_content=story_link
+linkedin,linkedin,organic_social,founder_launch_v1,bio_link,home,https://primandir.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=founder_launch_v1&utm_content=bio_link
+tiktok,tiktok,organic_social,beta_waitlist_v1,bio_link,home,https://primandir.com/?utm_source=tiktok&utm_medium=organic_social&utm_campaign=beta_waitlist_v1&utm_content=bio_link
+youtube,youtube,organic_social,beta_waitlist_v1,description_link,home,https://primandir.com/?utm_source=youtube&utm_medium=organic_social&utm_campaign=beta_waitlist_v1&utm_content=description_link
+qr_poster,qr,qr,beta_waitlist_v1,qr_poster,waitlist_form,https://share-na2.hsforms.com/2gvDkJfGJRAiBXt5oMio0hQ42qy01?utm_source=qr&utm_medium=qr&utm_campaign=beta_waitlist_v1
+founder,founder,email_manual,founder_launch_v1,dm_followup,home,https://primandir.com/?utm_source=founder&utm_medium=email_manual&utm_campaign=founder_launch_v1&utm_content=dm_followup
+partner,partner,referral,partner_intro_v1,intro_link,home,https://primandir.com/?utm_source=partner&utm_medium=referral&utm_campaign=partner_intro_v1&utm_content=intro_link
+beta_invite,beta_invite,email_manual,testflight_beta_v1,invite,waitlist_form,https://share-na2.hsforms.com/2gvDkJfGJRAiBXt5oMio0hQ42qy01?utm_source=beta_invite&utm_medium=email_manual&utm_campaign=testflight_beta_v1
+community,community,community_post,beta_waitlist_v1,group_post,home,https://primandir.com/?utm_source=community&utm_medium=community_post&utm_campaign=beta_waitlist_v1&utm_content=group_post
